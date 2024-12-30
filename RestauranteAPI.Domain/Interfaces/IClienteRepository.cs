@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace RestauranteAPI.Domain.Interfaces
 {
-    public interface IPedido: IBaseRepository<Pedido>
+    public interface IClienteRepository: IBaseRepository<Cliente>
     {
     }
 }

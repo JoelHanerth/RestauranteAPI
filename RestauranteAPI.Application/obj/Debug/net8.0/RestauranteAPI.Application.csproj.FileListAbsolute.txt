@@ -1,0 +1,12 @@
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\bin\Debug\net8.0\RestauranteAPI.Application.deps.json
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\bin\Debug\net8.0\RestauranteAPI.Application.dll
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\bin\Debug\net8.0\RestauranteAPI.Application.pdb
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\obj\Debug\net8.0\RestauranteAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\obj\Debug\net8.0\RestauranteAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\obj\Debug\net8.0\RestauranteAPI.Application.AssemblyInfo.cs
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\obj\Debug\net8.0\RestauranteAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\obj\Debug\net8.0\RestauranteAPI.Application.sourcelink.json
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\obj\Debug\net8.0\RestauranteAPI.Application.dll
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\obj\Debug\net8.0\refint\RestauranteAPI.Application.dll
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\obj\Debug\net8.0\RestauranteAPI.Application.pdb
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Application\obj\Debug\net8.0\ref\RestauranteAPI.Application.dll

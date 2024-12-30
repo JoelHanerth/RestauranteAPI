@@ -24,7 +24,6 @@ namespace RestauranteAPI.Infrastructure.EntitiesConfiguration
                 .HasOne(cliente => cliente.Cidade)
                 .WithMany(cidade => cidade.Clientes)
                 .HasForeignKey(cidade => cidade.ClienteCidadeId);
-
         }
     }
 }

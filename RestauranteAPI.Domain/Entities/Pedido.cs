@@ -1,4 +1,5 @@
 ﻿using RestauranteAPI.Domain.Common;
+using RestauranteAPI.Domain.Enums;
 using RestauranteAPI.Domain.Validation;
 
 namespace RestauranteAPI.Domain.Entities
@@ -7,6 +8,7 @@ namespace RestauranteAPI.Domain.Entities
     {
         public DateTimeOffset Data { get; set; }
         public decimal Valor { get; set; }
+        public EstadoPedido EstadoPedido { get; set; }
         public Guid PedidoClienteId { get; set; }
         public Cliente? Cliente { get; set; } 
 

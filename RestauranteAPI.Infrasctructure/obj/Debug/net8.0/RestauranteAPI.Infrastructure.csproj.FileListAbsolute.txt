@@ -1,0 +1,16 @@
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\bin\Debug\net8.0\RestauranteAPI.Infrastructure.deps.json
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\bin\Debug\net8.0\RestauranteAPI.Infrastructure.dll
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\bin\Debug\net8.0\RestauranteAPI.Infrastructure.pdb
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\bin\Debug\net8.0\RestauranteAPI.Domain.dll
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\bin\Debug\net8.0\RestauranteAPI.Domain.pdb
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\RestauranteAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\RestauranteAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\RestauranteAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\RestauranteAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\RestauranteAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\RestauranteAPI.Infrastructure.sourcelink.json
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\Restaura.CD5EBC82.Up2Date
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\RestauranteAPI.Infrastructure.dll
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\refint\RestauranteAPI.Infrastructure.dll
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\RestauranteAPI.Infrastructure.pdb
+C:\Users\Joel Leds\Source\Repos\RestauranteAPI\RestauranteAPI.Infrasctructure\obj\Debug\net8.0\ref\RestauranteAPI.Infrastructure.dll
